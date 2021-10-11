@@ -1,0 +1,22 @@
+#Pattani{
+    font-family:fantasy ;
+   text-align: center;
+}
+body{
+background-image: linear-gradient(rgba(255, 146, 146, 0.753),rgb(255, 255, 255));
+}
+#Flag{
+text-align:left;
+}
+#Highlights{
+text-align: right;
+}
+#wikipeadia{
+text-align: center;
+}
+#kally{
+text-align: center;
+}
+div{
+background-color: rgb(95, 95, 255);
+}
